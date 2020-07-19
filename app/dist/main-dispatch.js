@@ -1,0 +1,21 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+var express = require("express");
+var cros = require("cors");
+var driver_dispatch_1 = __importDefault(require("./driver-dispatch"));
+var finebill_dispatch_1 = __importDefault(require("./finebill-dispatch"));
+var officer_dispatch_1 = __importDefault(require("./officer-dispatch"));
+var pointsofficer_dispatch_1 = __importDefault(require("./pointsofficer-dispatch"));
+var payment_dispatch_1 = __importDefault(require("./payment-dispatch"));
+var router = express.Router();
+exports.default = router;
+router.use(express.json());
+router.use(cros());
+router.use("/api/v1/driver", driver_dispatch_1.default);
+router.use("/api/v1/finebill", finebill_dispatch_1.default);
+router.use("/api/v1/traffic", officer_dispatch_1.default);
+router.use("/api/v1/pointsTraffic", pointsofficer_dispatch_1.default);
+router.use("/api/v1/payment", payment_dispatch_1.default);

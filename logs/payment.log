@@ -1,0 +1,157 @@
+{"date":"5/21/2020, 12:31:53 AM","level":"info","message":"Success Payment"}
+{"date":"5/21/2020, 12:31:53 AM","level":"error","message":"Driver is already excite","Dlno":"B7654326"}
+{"date":"5/21/2020, 12:31:53 AM","level":"error","message":"Driver is already excite","Dlno":"B7654326"}
+{"date":"5/21/2020, 12:31:53 AM","level":"error","message":"Driver is already excite","Dlno":"B7654325"}
+{"date":"5/21/2020, 12:31:53 AM","level":"error","message":"Driver is already excite","Dlno":"B7654325"}
+{"date":"5/21/2020, 12:31:53 AM","level":"error","message":"Driver is already excite","Dlno":"B7654325"}
+{"date":"5/21/2020, 12:31:53 AM","level":"error","message":"Driver is already excite","Dlno":"B7654325"}
+{"date":"5/21/2020, 12:31:53 AM","level":"error","message":"Driver is already excite","Dlno":"B7654325"}
+{"date":"5/21/2020, 12:31:53 AM","level":"error","message":"Driver is already excite","Dlno":"B7654325"}
+{"date":"5/21/2020, 12:31:53 AM","level":"error","message":"Driver is already excite","Dlno":"B7654325"}
+{"date":"5/21/2020, 12:49:35 AM","level":"error","message":"Driver is already excite","Dlno":"B1234567"}
+{"date":"5/21/2020, 1:00:38 AM","level":"info","message":"Driver In"}
+{"date":"5/21/2020, 1:04:25 AM","level":"info","message":"Driver In"}
+{"date":"5/21/2020, 1:04:59 AM","level":"info","message":"Driver In"}
+{"date":"5/21/2020, 1:05:33 AM","level":"info","message":"Driver In"}
+{"date":"5/21/2020, 1:08:59 AM","level":"info","message":"Driver In"}
+{"date":"5/21/2020, 1:08:59 AM","level":"error","message":"Driver Not","Dlno":"B1234561"}
+{"date":"5/21/2020, 1:16:37 AM","level":"error","message":"Driver Not","Dlno":"B1234561"}
+{"date":"5/21/2020, 1:26:00 AM","level":"error","message":"Driver not Found","DNic":"B1234561"}
+{"date":"5/21/2020, 1:30:25 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 1:30:25 AM","level":"error","message":"Driver IN but No Bill","Dlno":"B1234567"}
+{"date":"5/21/2020, 1:30:25 AM","level":"info","message":"Driver In","DNic":"B7654321"}
+{"date":"5/21/2020, 1:30:25 AM","level":"info","message":"Success Driver Detail send","DNic":"B7654321"}
+{"date":"5/21/2020, 1:30:25 AM","level":"error","message":"Driver not Found","DNic":"B1234569"}
+{"date":"5/21/2020, 1:30:25 AM","level":"error","message":"Driver not Found","DNic":"B1234569"}
+{"date":"5/21/2020, 1:30:25 AM","level":"error","message":"Driver not Found","DNic":"B1234569"}
+{"date":"5/21/2020, 1:38:46 AM","level":"error","message":"Driver not Found","DNic":"B1234569"}
+{"date":"5/21/2020, 1:38:46 AM","level":"error","message":"Driver not Found","DNic":"B1234569"}
+{"date":"5/21/2020, 1:38:46 AM","level":"error","message":"Driver not Found","DNic":"B1234569"}
+{"date":"5/21/2020, 1:38:46 AM","level":"error","message":"Driver not Found","DNic":"B1234569"}
+{"date":"5/21/2020, 1:38:46 AM","level":"error","message":"Driver not Found","DNic":"B1234569"}
+{"date":"5/21/2020, 1:38:46 AM","level":"error","message":"Driver not Found","DNic":"B1234569"}
+{"date":"5/21/2020, 1:38:46 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 1:38:46 AM","level":"error","message":"Driver IN but No Bill","Dlno":"B1234567"}
+{"date":"5/21/2020, 1:38:46 AM","level":"error","message":"Driver not Found","DNic":"B1234569"}
+{"date":"5/21/2020, 1:38:46 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 1:38:46 AM","level":"error","message":"Driver IN but No Bill","Dlno":"B1234567"}
+{"date":"5/21/2020, 1:38:46 AM","level":"error","message":"Driver not Found","DNic":"B1234569"}
+{"date":"5/21/2020, 1:38:46 AM","level":"info","message":"Driver In","DNic":"B7654321"}
+{"date":"5/21/2020, 1:38:46 AM","level":"info","message":"Success Driver Detail send","DNic":"B7654321"}
+{"date":"5/21/2020, 1:38:46 AM","level":"info","message":"Driver In","DNic":"B7654321"}
+{"date":"5/21/2020, 1:38:46 AM","level":"info","message":"Success Driver Detail send","DNic":"B7654321"}
+{"date":"5/21/2020, 1:38:46 AM","level":"info","message":"Driver In","DNic":"B7654321"}
+{"date":"5/21/2020, 1:38:46 AM","level":"info","message":"Success Driver Detail send","DNic":"B7654321"}
+{"date":"5/21/2020, 1:34:39 PM","level":"info","message":"Driver In","DNic":"B7654321"}
+{"date":"5/21/2020, 1:34:39 PM","level":"info","message":"Success Driver Detail send","DNic":"B7654321"}
+{"date":"5/21/2020, 1:34:39 PM","level":"error","message":"Driver not Found","DNic":"B7654325"}
+{"date":"5/21/2020, 1:34:39 PM","level":"info","message":"Driver In","DNic":"B7654321"}
+{"date":"5/21/2020, 1:34:39 PM","level":"info","message":"Success Driver Detail send","DNic":"B7654321"}
+{"date":"5/21/2020, 1:34:39 PM","level":"error","message":"Driver not Found","DNic":"B7654329"}
+{"date":"5/21/2020, 1:34:39 PM","level":"info","message":"Driver In","DNic":"B7654321"}
+{"date":"5/21/2020, 1:34:39 PM","level":"info","message":"Success Driver Detail send","DNic":"B7654321"}
+{"date":"5/21/2020, 1:34:39 PM","level":"info","message":"Driver In","DNic":"B7654321"}
+{"date":"5/21/2020, 1:34:39 PM","level":"info","message":"Success Driver Detail send","DNic":"B7654321"}
+{"date":"5/21/2020, 1:34:39 PM","level":"info","message":"Driver In","DNic":"B7654321"}
+{"date":"5/21/2020, 1:34:39 PM","level":"info","message":"Success Driver Detail send","DNic":"B7654321"}
+{"date":"5/21/2020, 1:34:39 PM","level":"info","message":"Driver In","DNic":"B7654321"}
+{"date":"5/21/2020, 1:34:39 PM","level":"info","message":"Success Driver Detail send","DNic":"B7654321"}
+{"date":"5/21/2020, 2:39:55 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 2:39:55 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 2:47:43 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 2:47:43 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 2:47:43 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 2:47:43 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 2:47:43 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 2:47:43 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 2:47:43 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 2:47:43 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 2:47:43 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 2:47:43 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 3:34:01 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 3:34:01 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 3:34:01 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 3:34:01 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 3:35:43 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 3:35:43 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 3:35:43 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 3:35:43 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 3:35:43 PM","level":"error","message":"Driver not Found","DNic":"B1234698"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 6:19:28 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 8:26:31 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 8:26:31 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 8:26:31 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 8:26:31 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/21/2020, 8:26:31 PM","level":"error","message":"sql errorError: ER_BAD_FIELD_ERROR: Unknown column 'os' in 'field list'","Client":{"country":"Sri Lanka","ClientIP":"112.135.40.66","Browser":{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.104 (Edition Campaign 75)","os":"Windows","browser":"Opera","device":"Unknown","os_version":"windows-10","browser_version":"68.0.3618.104"},"device":"Desktop","billRefNo":36,"fullPrice":1100}}
+{"date":"5/21/2020, 8:32:45 PM","level":"error","message":"sql errorError: ER_BAD_FIELD_ERROR: Unknown column 'os' in 'field list'","Client":{"country":"Sri Lanka","ClientIP":"112.135.40.66","Browser":{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.104 (Edition Campaign 75)","os":"Windows","browser":"Opera","device":"Unknown","os_version":"windows-10","browser_version":"68.0.3618.104"},"device":"Desktop","billRefNo":36,"fullPrice":1100}}
+{"date":"5/21/2020, 8:34:04 PM","level":"info","message":"Success Payment Update","Client":{"country":"Sri Lanka","ClientIP":"112.135.40.66","Browser":{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.104 (Edition Campaign 75)","os":"Windows","browser":"Opera","device":"Unknown","os_version":"windows-10","browser_version":"68.0.3618.104"},"device":"Desktop","billRefNo":36,"fullPrice":1100}}
+{"date":"5/21/2020, 8:34:04 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/21/2020, 8:34:04 PM","level":"error","message":"Driver IN but No Bill","Dlno":"B1234567"}
+{"date":"5/23/2020, 9:42:20 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/23/2020, 9:42:20 AM","level":"error","message":"Driver IN but No Bill","Dlno":"B1234567"}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Success Payment Update","Client":{"country":"Sri Lanka","ClientIP":"61.245.170.37","Browser":{"userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36","os":"Android","browser":"Chrome","device":"Nexus Phone","os_version":"unknown","browser_version":"81.0.4044.138"},"device":"Mobile","billRefNo":37,"fullPrice":1100}}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Success Payment Update","Client":{"country":"Sri Lanka","ClientIP":"61.245.170.37","Browser":{"userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36","os":"Android","browser":"Chrome","device":"Nexus Phone","os_version":"unknown","browser_version":"81.0.4044.138"},"device":"Mobile","billRefNo":38,"fullPrice":1100}}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/23/2020, 9:48:54 AM","level":"info","message":"Success Payment Update","Client":{"country":"Sri Lanka","ClientIP":"61.245.170.37","Browser":{"userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36","os":"Android","browser":"Chrome","device":"Nexus Phone","os_version":"unknown","browser_version":"81.0.4044.138"},"device":"Mobile","billRefNo":39,"fullPrice":1100}}
+{"date":"5/23/2020, 10:02:36 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/23/2020, 10:02:36 AM","level":"error","message":"Driver IN but No Bill","Dlno":"B1234567"}
+{"date":"5/23/2020, 10:02:36 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/23/2020, 10:02:36 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/23/2020, 10:02:36 AM","level":"info","message":"Success Payment Update","Client":{"country":"Sri Lanka","ClientIP":"61.245.170.37","Browser":{"userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36","os":"Android","browser":"Chrome","device":"Nexus Phone","os_version":"unknown","browser_version":"81.0.4044.138"},"device":"Mobile","billRefNo":40,"fullPrice":1100}}
+{"date":"5/23/2020, 10:02:36 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/23/2020, 10:02:36 AM","level":"error","message":"Driver IN but No Bill","Dlno":"B1234567"}
+{"date":"5/23/2020, 10:02:36 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/23/2020, 10:02:36 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/23/2020, 10:02:36 AM","level":"info","message":"Success Payment Update","Client":{"country":"Sri Lanka","ClientIP":"61.245.170.37","Browser":{"userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36","os":"Android","browser":"Chrome","device":"Nexus Phone","os_version":"unknown","browser_version":"81.0.4044.138"},"device":"Mobile","billRefNo":42,"fullPrice":1100}}
+{"date":"5/23/2020, 10:02:36 AM","level":"info","message":"Success Payment Update","Client":{"country":"Sri Lanka","ClientIP":"61.245.170.37","Browser":{"userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36","os":"Android","browser":"Chrome","device":"Nexus Phone","os_version":"unknown","browser_version":"81.0.4044.138"},"device":"Mobile","billRefNo":41,"fullPrice":1100}}
+{"date":"5/23/2020, 10:13:02 AM","level":"info","message":"Success Payment Update","Client":{"country":"Sri Lanka","ClientIP":"61.245.170.37","Browser":{"userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36","os":"Android","browser":"Chrome","device":"Nexus Phone","os_version":"unknown","browser_version":"81.0.4044.138"},"device":"Mobile","billRefNo":43,"fullPrice":1100}}
+{"date":"5/23/2020, 10:14:32 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/23/2020, 10:14:32 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"5/23/2020, 10:14:32 AM","level":"info","message":"Success Payment Update","Client":{"country":"Sri Lanka","ClientIP":"61.245.170.37","Browser":{"userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36","os":"Android","browser":"Chrome","device":"Nexus Phone","os_version":"unknown","browser_version":"81.0.4044.138"},"device":"Mobile","billRefNo":44,"fullPrice":1100}}
+{"date":"5/23/2020, 10:14:32 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"5/23/2020, 10:14:32 AM","level":"error","message":"Driver IN but No Bill","Dlno":"B1234567"}
+{"date":"7/18/2020, 10:30:43 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"7/18/2020, 10:30:43 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"7/18/2020, 10:30:43 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"7/18/2020, 10:30:43 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"7/18/2020, 10:30:43 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"7/18/2020, 10:30:43 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"7/18/2020, 10:30:43 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"7/18/2020, 10:30:43 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"7/18/2020, 10:30:43 AM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"7/18/2020, 10:30:43 AM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"7/18/2020, 1:03:28 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"7/18/2020, 1:03:28 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"7/18/2020, 1:03:28 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"7/18/2020, 1:03:28 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"7/18/2020, 1:14:24 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"7/18/2020, 1:14:24 PM","level":"info","message":"Success Driver Detail send","DNic":"B1234567"}
+{"date":"7/18/2020, 1:14:24 PM","level":"info","message":"Success Payment Update","Client":{"country":"Sri Lanka","ClientIP":"112.135.2.202","Browser":{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 OPR/69.0.3686.77 (Edition Campaign 75)","os":"Windows","browser":"Opera","device":"Unknown","os_version":"windows-10","browser_version":"69.0.3686.77"},"device":"Desktop","billRefNo":58,"fullPrice":1100}}
+{"date":"7/18/2020, 1:14:24 PM","level":"info","message":"Driver In","DNic":"B1234567"}
+{"date":"7/18/2020, 1:14:24 PM","level":"error","message":"Driver IN but No Bill","Dlno":"B1234567"}
